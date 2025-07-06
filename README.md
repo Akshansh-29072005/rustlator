@@ -20,8 +20,6 @@ This repo includes **two versions** to show progression:
 
 ## 📂 Project Structure
 
-```
-
 rustlator/
 ├── v1/  # Version 1 - Basic CLI Calculator
 │   ├── Cargo.toml
@@ -35,9 +33,6 @@ rustlator/
 ├── README.md
 
 ````
-
----
-
 ## 🛠️ How to Run
 
 Make sure you have **Rust & Cargo** installed.
