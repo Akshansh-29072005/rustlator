@@ -1,9 +1,3 @@
-🔥 **Absolutely, Akshansh! Here’s a polished, beginner-friendly & professional `README.md` you can copy–paste directly!**
-
-Below is ready to **drop into your root `rustlator/README.md`** — just replace your LinkedIn link at the end!
-
----
-
 ```markdown
 # 🦀 Rustlator
 
@@ -29,11 +23,11 @@ This repo includes **two versions** to show progression:
 ```
 
 rustlator/
-├── v1/           # Version 1 - Basic CLI Calculator
+├── v1/  # Version 1 - Basic CLI Calculator
 │   ├── Cargo.toml
 │   ├── src/
 │       ├── main.rs
-├── v2/           # Version 2 - Improved CLI Calculator
+├── v2/  # Version 2 - Improved CLI Calculator
 │   ├── Cargo.toml
 │   ├── src/
 │       ├── main.rs
