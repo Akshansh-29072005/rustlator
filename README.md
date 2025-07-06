@@ -7,16 +7,12 @@ This repo includes **two versions** to show progression:
 - ✅ **v1** — A basic version using simple `if`/`else`
 - ✅ **v2** — Improved with idiomatic Rust: `enum` + `match` + better error handling
 
----
-
 ## 🚀 Features
 
 - 📌 Addition, Subtraction, Multiplication, Division, Modulus
 - 📌 Takes input directly from the terminal
 - 📌 Handles zero division gracefully
 - 📌 Clear structure for learning Rust basics
-
----
 
 ## 📂 Project Structure
 
